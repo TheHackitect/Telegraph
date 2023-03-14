@@ -11,7 +11,7 @@
 👤 [**Marvellous Kolawole**](https://linkedin.com/in/thehackitect)
 
 * Github: [@Thehackitect](https://github.com/Thehackitect)
-* Website: [Thehackitect](thehackitect.com)
+* Website: [Thehackitect](https://thehackitect.com)
 * Twitter: [@Thehackitect](https://twitter.com/Thehackitect)
 
 ## Show your support
