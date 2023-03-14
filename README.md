@@ -8,19 +8,11 @@
 
 ## Authors
 
-👤 [**Marvellous Kolawole**](https://linkedin.com/in/marvellous-kolawole-38b36015a)
+👤 [**Marvellous Kolawole**](https://linkedin.com/in/thehackitect)
 
 * Github: [@Thehackitect](https://github.com/Thehackitect)
-
-👤 [**Jonathan Irhodia**](https://linkedin.com/in/elcharitas)
-
-* Website: elcharitas.com.ng
-* Twitter: [@elcharitas](https://twitter.com/elcharitas)
-* Github: [@elcharitas](https://github.com/elcharitas)
-
-## Contributing
-
-Contributions, issues and pull requests are welcomed. Ensure you take a look at our [contributing guide](./CONTRIBUTING.md).
+* Website: Thehackitect.com
+* Twitter: [@elcharitas](https://twitter.com/Thehackitect)
 
 ## Show your support
 
